@@ -77,8 +77,10 @@
 | 2025 | arXiv | **3D Gaussian Particle Approximation of VDB Datasets: A Study for Scientific Visualization** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=3D+Gaussian+Particle+Approximation+of+VDB+Datasets-+A+Study+for+Scientific+Visualization&btnG=) | ---- |  
 | 2025 | arXiv | **3D Gaussian Modeling and Ray Marching of OpenVDB datasets for Scientific Visualization** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=3D+Gaussian+Modeling+and+Ray+Marching+of+OpenVDB+datasets+for+Scientific+Visualization&btnG=) | ---- |  
 | 2025 | TOG | **Don't Splat your Gaussians: Volumetric Ray-Traced Primitives for Modeling and Rendering Scattering and Emissive Media** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Don%E2%80%99t+Splat+your+Gaussians%3A+Volumetric+Ray-Traced+Primitives+for+Modeling+and+Rendering+Scattering+and+Emissive+Media&btnG=) | ---- |  
+| 2025 | TOG | **CFC: Simulating Character-Fluid Coupling using a Two-Level World Model** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=CFC%3A+Simulating+Character-Fluid+Coupling+using+a+Two-Level+World+Model&btnG=) | ---- |  
 | 2025 | TOG | **A dual-particle approach for incompressible SPH fluids** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=A+Dual-Particle+Approach+for+Incompressible+SPH+Fluids&btnG=) | ---- |  
 | 2025 | TOG | **Unified Pressure, Surface Tension and Friction for SPH Fluids** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Unified+Pressure%2C+Surface+Tension+and+Friction+for+SPH+Fluids&btnG=) | [GitHub](https://hb-pencil-zero.github.io/GaussianFluent/) |  
+| 2025 | TOG | **VR-Doh: Hands-on 3D Modeling in Virtual Reality** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=VR-Doh%3A+Hands-on+3D+Modeling+in+Virtual+Reality&btnG=) | [GitHub](https://github.com/Simulation-Intelligence/VR-doh) |  
 | 2025 | SIGGRAPH | **Gaussian Fluids: A Grid-Free Fluid Solver based on Gaussian Spatial Representation** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Gaussian+Fluids%3A+A+Grid-Free+Fluid+Solver+based+on+Gaussian+Spatial+Representation&btnG=) | [GitHub](https://github.com/xjr01/Gaussian-Fluids-Code) |  
 | 2025 | TOG | **Kinetic simulation of turbulent multifluid flows** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Kinetic+Simulation+of+Turbulent+Multifluid+Flows&btnG=) | ---- |  
 | 2025 | SIGGRAPH | **Lagrangian Covector Fluid with Free Surface** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Lagrangian+Covector+Fluid+with+Free+Surface&btnG=) | ---- |  
@@ -93,9 +95,13 @@
 | 2025 | TOG | **Fire-X: Extinguishing Fire with Stoichiometric Heat Release** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Fire-X%3A+Extinguishing+Fire+with+Stoichiometric+Heat+Release&btnG=) | ---- |  
 | 2025 | TOG | **Cyclogenesis: Simulating Hurricanes and Tornadoes** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Cyclogenesis%3A+Simulating+Hurricanes+and+Tornadoes&btnG=) | ---- |  
 | 2024 | TOG | **An Induce-on-Boundary Magnetostatic Solver for Grid-Based Ferrofluids** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=An+Induce-on-Boundary+Magnetostatic+Solver+for+Grid-Based+Ferrofluids&btnG=) | ---- |  
-
-
-
+| 2025 | TOG | **Neurally integrated finite elements for differentiable elasticity on evolving domains** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Neurally+Integrated+Finite+Elements+for+Differentiable+Elasticity+on+Evolving+Domains&btnG=) | ---- |  
+| 2025 | TOG | **Solving partial differential equations in participating media** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Solving+partial+differential+equations+in+participating+media&btnG=) | ---- |  
+| 2025 | TOG | **Creating Fluid-Interactive Virtual Agents by an Efficient Simulator with Local-domain Control** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Creating+Fluid-Interactive+Virtual+Agents+by+an+Efficient+Simulator+with+Local-domain+Control&btnG=) | ---- |  
+| 2025 | TOG | **Fast & Stable Control of Coupled Solid-Fluid Dynamic Systems** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Fast+%26+Stable+Control+of+Coupled+Solid-Fluid+Dynamic+Systems&btnG=) | ---- |  
+| 2025 | arXiv | **A Differentiable Material Point Method Framework for Shape Morphing** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=A+Differentiable+Material+Point+Method+Framework+for+Shape+Morphing&btnG=) | ---- |  
+| 2025 | TVCG | **Simulating Two-phase Fluid-rigid Interactions with an Overset-Grid Kinetic Solver** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Simulating+Two-Phase+Fluid-Rigid+Interactions+With+an+Overset-Grid+Kinetic+Solver&btnG=) | ---- |  
+| 2026 | TOG | **A practical partitioner for distributed simulations on sparse dynamic domains using optimal transport** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=A+Practical+Partitioner+for+Distributed+Simulations+on+Sparse+Dynamic+Domains+Using+Optimal+Transport&btnG=) | ---- |  
 
 
 
@@ -107,9 +113,10 @@
 ### open Source Projects
 
 [Multiphase](https://github.com/qingpinghuang/Multiphase)  
-[Gaussian Splatting fVDB](https://openvdb.github.io/fvdb-core/index.html)
-[openvdb](https://github.com/AcademySoftwareFoundation/openvdb)
-[ƒVDB](https://github.com/openvdb/fvdb-core)
+[Gaussian Splatting fVDB](https://openvdb.github.io/fvdb-core/index.html)  
+[openvdb](https://github.com/AcademySoftwareFoundation/openvdb)  
+[ƒVDB](https://github.com/openvdb/fvdb-core)  
+
 
 
 
